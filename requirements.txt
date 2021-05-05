@@ -1,0 +1,3 @@
+Pip install numba
+Pip install numpy
+pip install opencv-python
