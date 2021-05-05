@@ -4,6 +4,9 @@
 # In[ ]:
 
 
+##### This is an implementation of the research of chaper 4 ITMO of Thomas Iorns and Taehyun Rhee:
+##### https://link.springer.com/content/pdf/10.1007%2F978-3-319-30285-0_12.pdf
+
 import numpy as np
 from numba import jit
 import cv2
