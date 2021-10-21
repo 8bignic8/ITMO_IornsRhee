@@ -31,4 +31,4 @@ the 000001.png or hisnewLDR.png is a 8-bit LDR-picture
 
 python3 main.py
 
-answer the Questions
+answer the questions
