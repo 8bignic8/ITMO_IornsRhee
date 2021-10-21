@@ -1,5 +1,5 @@
 # ITMO_IornsRhee
-inverse tonemapping Operation 
+inverse tonemapping operation 
 after the paper: 
 
 https://link.springer.com/content/pdf/10.1007%2F978-3-319-30285-0_12.pdf
